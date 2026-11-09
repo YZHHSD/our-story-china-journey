@@ -7,3 +7,5 @@
 @media(max-width:360px){.hero h1{font-size:34px;letter-spacing:.04em}.hero-content{padding-left:22px;padding-right:22px}.hero-actions .primary,.hero-actions .secondary{padding:11px 12px;font-size:11px;white-space:nowrap}}
 body{font-family:'Microsoft YaHei','PingFang SC',sans-serif}
 .serif,.hero h1,.section h2,.page-heading h1,.story-body h3,.next-card h3,.map-side h3,.postcard-body h3,.place-card h3,.detail-content h2,.modal h2,.timeline-card h3,.choice h3,.stat b,.report-cell b{font-family:'Songti SC','SimSun',serif}
+
+@media(min-width:691px){.hero-content{max-width:860px}}
